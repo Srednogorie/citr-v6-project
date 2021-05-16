@@ -6,4 +6,5 @@ dist-server/
 .DS_Store
 coverage/
 .vscode/ 
-package-lock.json 
+package-lock.json
+.idea
